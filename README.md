@@ -20,5 +20,6 @@ No issue for now
 
 ### 0.0.1
 
+see source code on [github repo](https://github.com/Zippowxk/Deletehere)
 
 
